@@ -1,13 +1,13 @@
 {
-    "name": "phpanonymous/it",
+    "name": "zero/it",
     "description": "Unleash your imagination and be creative",
     "type": "package",
     "license": "MIT",
     "keywords": ["laravel", "It application With It-platinum", "php"],
     "authors": [{
-        "name": "Mahmoud Ibrahim",
-        "email": "php.anonymous1@gmail.com",
-        "homepage": "https://it.phpanonymous.com"
+        "name": "Abdelaziz zero",
+        "email": "elzozsharks@gmail.com",
+        "homepage": "http://abdelazizfathy.atwebpages.com"
     }],
     "require": {
         "php": "^8.0",
